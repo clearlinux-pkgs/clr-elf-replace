@@ -4,7 +4,7 @@
 #
 Name     : clr-elf-replace
 Version  : 17
-Release  : 70
+Release  : 71
 URL      : http://localhost/cgit/projects/clr-elf-replace/snapshot/clr-elf-replace-17.tar.xz
 Source0  : http://localhost/cgit/projects/clr-elf-replace/snapshot/clr-elf-replace-17.tar.xz
 Summary  : No detailed summary available
